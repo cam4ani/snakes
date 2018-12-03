@@ -19,6 +19,10 @@ reunited_all_datasource_for_dl.ipynb:
 --------------
 data we miss:
 herpmapper: latitude, longitude, license
+snapp: datetaken, latitude, longitude,
+
+note:
+snapp: id use aso the ĵpg or png' format as it was done like this by andrew and that the endpoint change. (i..e. saved_img_id='id, and not typically 'snapp_'+x['species']+'_'+str(x['id'])+".png"
 
 
 
