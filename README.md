@@ -13,7 +13,7 @@ get_herpmapper_data.ipynb: using andrew csv file with the url we download image 
 
 get_inaturalist_data.ipynb: using andrew csv file with the url we download image using the species name with their synonyms and their language translations.
 
-reunited_all_datasource_for_dl.ipynb: 
+reunited_all_datasource_for_dl.ipynb: to aggregate all the images info from various data source and create adequate csv file fro crowdai challenge.
 
 
 --------------
