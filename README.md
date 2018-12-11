@@ -17,9 +17,9 @@ aggregated_all_datasource_for_dl.ipynb: to aggregate all the images info from va
 
 all_images_stat.ipynb: create plot of any dataframe with image info .Choose at begining which one to use. e.g. df_all_datasource, df_crowdai, df_crowdai_test, df_crowdai_train.
 
-frompdf2text.ipynb:
+frompdf2text.ipynb: try to structure the information from a pdf book to gather more synonyms
 
-fromscannpdf2mage.ipynb:
+fromscannpdf2mage.ipynb: get images from scan pdf books
 
 
 --------------
